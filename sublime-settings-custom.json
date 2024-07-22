@@ -1,0 +1,13 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage",
+	],
+	// Virtual space
+	"scroll_past_end": true,
+	"index_files": true,
+}
